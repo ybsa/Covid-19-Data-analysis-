@@ -17,17 +17,6 @@ Exploratory Data Analysis (EDA)
 Visualizations to understand trends and patterns
 
 
-
----
-
-Project Structure
-
-.
-├── covid-19.ipynb        # Jupyter Notebook with the full analysis
-├── covid_19_data.csv     # Dataset used for analysis
-└── README.md             # Project documentation
-
-
 ---
 
 How to Use
@@ -51,7 +40,7 @@ jupyter notebook covid-19.ipynb
 
 Requirements
 
-Python 3.x
+Python 3.13.1
 
 pandas
 
